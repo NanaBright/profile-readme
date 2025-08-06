@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">こんにちは、ナナ です。</h1>
-<h3 align="center">🇬🇭 Full-Stack Developer • Microservices Builder • Japan-bound Dev</h3>
+<h3 align="center">🇬🇭 Full-Stack Developer • Microservices Builder • Dev</h3>
 
 ---
 
@@ -26,12 +26,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanabright&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanabright&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nanabright&show_icons=true&theme=monokai" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanabright&theme=monokai" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanabright&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanabright&layout=compact&theme=monokai" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanabright&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nanabright&theme=monokai&margin-w=10&no-frame=true" />
 </p>
 
 ---
