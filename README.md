@@ -14,13 +14,6 @@
 
 ---
 
-<!-- ⌨️ Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=700&lines=Building+Flowstock+%26+TaxFlow;Creating+open-source+tools+for+SMEs;Focused+on+micro+SaaS+apps;From+Accra+to+the+world+🚀" alt="Typing animation" />
-</p>
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
